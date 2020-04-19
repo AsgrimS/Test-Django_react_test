@@ -1,0 +1,1 @@
+Simple test project with Django, React and Rest API
